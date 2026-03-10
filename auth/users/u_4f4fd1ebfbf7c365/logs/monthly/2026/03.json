@@ -2,10 +2,10 @@
   "v": 1,
   "days": {
     "10": {
-      "logout": 1
+      "logout": 2
     }
   },
   "totals": {
-    "logout": 1
+    "logout": 2
   }
 }
