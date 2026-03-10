@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "userId": "u_8fc9c94f022d84cf",
+  "username": "PERRO",
+  "usernameLower": "perro",
+  "createdAt": 1773110548243,
+  "salt": "ck+mpRAqzgLMvmS9Q40lhQ==",
+  "authChunks": 1,
+  "bio": "",
+  "role": "owner",
+  "businessId": "biz_default",
+  "businessMemberships": [],
+  "preferences": {
+    "lang": "es",
+    "notifications": true,
+    "theme": "dark"
+  }
+}
