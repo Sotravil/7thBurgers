@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "id": "prod_2Bo9HBmQBN",
+  "name": "PANEL DE CONTROL",
+  "category": "General",
+  "costPrice": 5000,
+  "salePrice": 1000,
+  "stock": 10,
+  "reorderPoint": 1,
+  "image": "📦",
+  "updatedAt": "2026-03-10T04:27:34.810Z",
+  "createdBy": "u_758972185516a0e9",
+  "businessId": "biz_sB8TWVzA7v"
+}
