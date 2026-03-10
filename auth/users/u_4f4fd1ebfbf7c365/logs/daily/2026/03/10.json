@@ -7,9 +7,16 @@
         "username": "esternon"
       },
       "ts": "2026-03-10T04:07:05.223Z"
+    },
+    {
+      "type": "logout",
+      "details": {
+        "username": "esternon"
+      },
+      "ts": "2026-03-10T04:08:37.936Z"
     }
   ],
   "summary": {
-    "logout": 1
+    "logout": 2
   }
 }
