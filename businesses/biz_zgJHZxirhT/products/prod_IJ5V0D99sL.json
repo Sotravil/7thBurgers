@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "id": "prod_IJ5V0D99sL",
+  "name": "cable 5m",
+  "category": "electronica",
+  "costPrice": 100,
+  "salePrice": 50,
+  "stock": 20,
+  "reorderPoint": 5,
+  "image": "📦",
+  "updatedAt": "2026-03-10T04:00:48.921Z",
+  "createdBy": "u_4f4fd1ebfbf7c365",
+  "businessId": "biz_zgJHZxirhT"
+}
