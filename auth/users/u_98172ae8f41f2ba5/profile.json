@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "userId": "u_98172ae8f41f2ba5",
+  "username": "Sotravil",
+  "usernameLower": "sotravil",
+  "createdAt": 1773104469781,
+  "salt": "woYqGbN2PAYDTWS1gBEMcA==",
+  "authChunks": 1,
+  "bio": "",
+  "role": "owner",
+  "businessId": "biz_default",
+  "businessMemberships": [],
+  "preferences": {
+    "lang": "es",
+    "notifications": true,
+    "theme": "dark"
+  }
+}
