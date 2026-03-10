@@ -1,0 +1,20 @@
+{
+  "name": "Mi Negocio",
+  "currency": "MXN",
+  "taxRate": 16,
+  "tz": "America/Mexico_City",
+  "locale": "es-MX",
+  "initialStats": {
+    "setupCompleted": true,
+    "revenue": 10000,
+    "balance": 5000,
+    "expenses": {
+      "total": 2800,
+      "supplies": 200,
+      "payroll": 1500,
+      "rent": 500,
+      "utilities": 500,
+      "other": 100
+    }
+  }
+}
