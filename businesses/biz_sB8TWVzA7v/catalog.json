@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "prod_8MiYTKKQ1a",
+      "name": "pan",
+      "category": "General",
+      "costPrice": 50,
+      "salePrice": 10,
+      "stock": 50,
+      "reorderPoint": 10,
+      "image": "🌟"
+    },
+    {
+      "id": "prod_yDzkhQfc9f",
+      "name": "lapiz",
+      "category": "General",
+      "costPrice": 50,
+      "salePrice": 10,
+      "stock": 50,
+      "reorderPoint": 10,
+      "image": "🌟"
+    }
+  ]
+}
