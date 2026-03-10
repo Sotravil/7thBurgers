@@ -1,0 +1,20 @@
+{
+  "name": "trianon energo",
+  "currency": "PEN",
+  "taxRate": 18,
+  "tz": "America/Mexico_City",
+  "locale": "es-MX",
+  "initialStats": {
+    "setupCompleted": true,
+    "revenue": 15000,
+    "balance": 10000,
+    "expenses": {
+      "total": 5100,
+      "supplies": 1500,
+      "payroll": 2000,
+      "rent": 1000,
+      "utilities": 500,
+      "other": 100
+    }
+  }
+}
