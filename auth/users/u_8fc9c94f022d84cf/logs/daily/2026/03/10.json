@@ -1,0 +1,15 @@
+{
+  "v": 1,
+  "entries": [
+    {
+      "type": "logout",
+      "details": {
+        "username": "PERRO"
+      },
+      "ts": "2026-03-10T03:33:00.441Z"
+    }
+  ],
+  "summary": {
+    "logout": 1
+  }
+}
