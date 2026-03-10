@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "id": "prod_XOsK1k1DCt",
+  "name": "pero",
+  "category": "General",
+  "costPrice": 51,
+  "salePrice": 20,
+  "stock": 10,
+  "reorderPoint": 2,
+  "image": "📦",
+  "updatedAt": "2026-03-10T04:13:48.787Z",
+  "createdBy": "u_758972185516a0e9",
+  "businessId": "biz_sB8TWVzA7v"
+}
