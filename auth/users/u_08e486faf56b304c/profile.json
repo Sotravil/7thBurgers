@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "userId": "u_08e486faf56b304c",
+  "username": "melvin",
+  "usernameLower": "melvin",
+  "createdAt": 1773261316136,
+  "salt": "xlPJkQBz+Xukukm2skZdFQ==",
+  "authChunks": 1,
+  "bio": "",
+  "role": "owner",
+  "businessId": "biz_Tpr2OOzahh",
+  "businessMemberships": [],
+  "preferences": {
+    "lang": "es",
+    "notifications": true,
+    "theme": "dark"
+  }
+}
