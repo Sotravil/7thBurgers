@@ -1,0 +1,12 @@
+{
+  "v": 1,
+  "id": "prod_jZek50XFui",
+  "name": "arroz",
+  "category": "General",
+  "costPrice": 20,
+  "salePrice": 10,
+  "stock": 50,
+  "reorderPoint": 10,
+  "image": "🌟",
+  "businessId": "biz_M0anJd9Nr7"
+}
