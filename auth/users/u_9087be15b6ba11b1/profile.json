@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "userId": "u_9087be15b6ba11b1",
+  "username": "ldtecno",
+  "usernameLower": "ldtecno",
+  "createdAt": 1773262034593,
+  "salt": "nHr74cLFcTO9gDyveTU97A==",
+  "authChunks": 1,
+  "bio": "",
+  "role": "owner",
+  "businessId": "biz_M0anJd9Nr7",
+  "businessMemberships": [],
+  "preferences": {
+    "lang": "es",
+    "notifications": true,
+    "theme": "dark"
+  }
+}
