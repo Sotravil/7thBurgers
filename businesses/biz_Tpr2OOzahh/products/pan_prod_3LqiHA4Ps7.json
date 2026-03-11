@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "id": "prod_3LqiHA4Ps7",
+  "name": "pan",
+  "category": "comida",
+  "costPrice": 10,
+  "salePrice": 1,
+  "stock": 5,
+  "reorderPoint": 1,
+  "image": "📦",
+  "updatedAt": "2026-03-11T20:39:01.160Z",
+  "createdBy": "u_08e486faf56b304c",
+  "businessId": "biz_Tpr2OOzahh"
+}
