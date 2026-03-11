@@ -1,0 +1,10 @@
+{
+  "id": "prod_CzLTxk7zQ9",
+  "name": "s2",
+  "category": "General",
+  "costPrice": 21,
+  "salePrice": 12,
+  "stock": 50,
+  "reorderPoint": 10,
+  "image": "🌟"
+}
