@@ -1,0 +1,21 @@
+{
+  "name": "melvin",
+  "currency": "PEN",
+  "taxRate": 18,
+  "tz": "America/Mexico_City",
+  "locale": "es-MX",
+  "_existsInCloud": false,
+  "initialStats": {
+    "setupCompleted": true,
+    "revenue": 1000,
+    "balance": 10,
+    "expenses": {
+      "total": 50,
+      "supplies": 10,
+      "payroll": 10,
+      "rent": 10,
+      "utilities": 10,
+      "other": 10
+    }
+  }
+}
