@@ -1,0 +1,12 @@
+{
+  "v": 1,
+  "id": "prod_XUffhbUuGS",
+  "name": "chorizo",
+  "category": "General",
+  "costPrice": 10,
+  "salePrice": 20,
+  "stock": 50,
+  "reorderPoint": 10,
+  "image": "🌟",
+  "businessId": "biz_Tpr2OOzahh"
+}
