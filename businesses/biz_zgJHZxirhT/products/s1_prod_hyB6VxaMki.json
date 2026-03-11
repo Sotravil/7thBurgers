@@ -1,0 +1,10 @@
+{
+  "id": "prod_hyB6VxaMki",
+  "name": "s1",
+  "category": "General",
+  "costPrice": 12,
+  "salePrice": 1,
+  "stock": 50,
+  "reorderPoint": 10,
+  "image": "🌟"
+}
