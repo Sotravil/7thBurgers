@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "id": "prod_cVm9FTOrah",
+  "name": "ads",
+  "category": "General",
+  "costPrice": 1,
+  "salePrice": 12,
+  "stock": 13,
+  "reorderPoint": 10,
+  "image": "📦",
+  "updatedAt": "2026-03-11T20:51:40.866Z",
+  "createdBy": "u_9087be15b6ba11b1",
+  "businessId": "biz_M0anJd9Nr7"
+}
