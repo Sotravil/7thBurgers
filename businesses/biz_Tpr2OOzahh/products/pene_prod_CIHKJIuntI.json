@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "id": "prod_CIHKJIuntI",
+  "name": "pene",
+  "category": "comida",
+  "costPrice": 100,
+  "salePrice": 50,
+  "stock": 50,
+  "reorderPoint": 10,
+  "image": "📦",
+  "updatedAt": "2026-03-11T21:06:10.911Z",
+  "createdBy": "u_08e486faf56b304c",
+  "businessId": "biz_Tpr2OOzahh"
+}
