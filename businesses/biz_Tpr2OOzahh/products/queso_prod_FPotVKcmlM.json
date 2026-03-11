@@ -1,0 +1,12 @@
+{
+  "v": 1,
+  "id": "prod_FPotVKcmlM",
+  "name": "queso",
+  "category": "General",
+  "costPrice": 20,
+  "salePrice": 10,
+  "stock": 50,
+  "reorderPoint": 10,
+  "image": "🌟",
+  "businessId": "biz_Tpr2OOzahh"
+}
