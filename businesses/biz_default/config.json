@@ -1,0 +1,20 @@
+{
+  "name": "3rfw",
+  "currency": "PEN",
+  "taxRate": 163,
+  "tz": "America/Mexico_City",
+  "locale": "es-MX",
+  "initialStats": {
+    "setupCompleted": true,
+    "revenue": 0,
+    "balance": 0,
+    "expenses": {
+      "total": 42000000003989,
+      "supplies": 423,
+      "payroll": 42000000000000,
+      "rent": 3234,
+      "utilities": 332,
+      "other": 0
+    }
+  }
+}
